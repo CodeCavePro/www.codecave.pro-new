@@ -13,7 +13,7 @@ What if one of your customers is using Wireguard to access the company’s cloud
 <p>The only caveat is that these commands will be executed under <a href="https://learn.microsoft.com/en-us/windows/win32/services/localsystem-account">SYSTEM user,</a> which is a big deal, because it might make you an easy target for malware.<br>
 But we know what we are up to, don't we?</p>
 <p>You can activate this PreUp-PostDown magic by running enabling it via registry</p>
-<pre><code class="language-batch">reg add HKLM\Software\WireGuard /v LimitedOperatorUI /t REG_DWORD /d 1 /f
+<pre><code class="language-batch">reg add HKLM\Software\WireGuard /v DangerousScriptExecution /t REG_DWORD /d 1 /f
 </code></pre>
 <p>Then you can start adding the <code>PreUp</code>, <code>PostUp</code>, <code>PreDown</code>, and <code>PostDown</code> options to your tunnel configurations.</p>
 <p>I will add</p>
