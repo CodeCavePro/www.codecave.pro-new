@@ -1,0 +1,7 @@
+Contact: mailto:root@codecave.pro
+Contact: https://www.codecave.pro/contact/
+Policy: https://www.codecave.pro/security/
+Acknowledgments: https://www.codecave.pro/security#acknowledgements
+Preferred-Languages: en
+Canonical: https://www.codecave.pro/security.txt
+Expires: 2030-12-31T23:59:59Z
