@@ -1,0 +1,17 @@
+/* TEAM */
+	CEO: Yaroslav Zhmayev
+	GitHub: @salaros
+	From: Venice, Italy
+
+  UI/UX: Maria Shaban
+	Behance: https://www.behance.net/shabanmaria
+	From: Warszaw, Poland
+
+	Fullstack Developer: Maria Nikitsenka
+	From: Minsk, Belarus
+
+/* SITE */
+	Last update: 2026/04/30
+	Language: English
+	Doctype: HTML5
+	IDE: Visual Studio Code, JetBrains Webstorm, Figma
